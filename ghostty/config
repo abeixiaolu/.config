@@ -1,0 +1,33 @@
+shell-integration-features = no-cursor
+cursor-style = block
+font-feature = -calt
+font-feature = ss01
+
+palette = 0=#a3a3a3
+palette = 1=#cc8787
+palette = 2=#8EBF9D
+palette = 3=#BF9D94
+palette = 4=#94B5C0
+palette = 5=#9D94BF
+palette = 6=#7dd0c1
+palette = 7=#A6ADC8
+palette = 8=#838383
+palette = 9=#ce7e7e
+palette = 10=#7ece7e
+palette = 11=#cea67e
+palette = 12=#7eadce
+palette = 13=#7e7ece
+palette = 14=#7ecebf
+palette = 15=#BAC2DE
+selection-background = 353C3F
+selection-foreground = d1cdc2
+# selection-invert-fg-bg = true
+background = 262626
+foreground = d1cdc2
+
+
+mouse-hide-while-typing = true
+macos-titlebar-style = hidden
+window-padding-balance = true
+window-padding-x = 10
+window-padding-y = 10

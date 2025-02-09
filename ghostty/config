@@ -1,7 +1,9 @@
 shell-integration-features = no-cursor
 cursor-style = block
-font-feature = -calt
-font-feature = ss01
+font-family = "Berkeley Mono"
+font-size = 13
+background-opacity = 0.85
+background-blur = 20
 
 palette = 0=#a3a3a3
 palette = 1=#cc8787
@@ -22,12 +24,12 @@ palette = 15=#BAC2DE
 selection-background = 353C3F
 selection-foreground = d1cdc2
 # selection-invert-fg-bg = true
-background = 262626
+background = 000000
 foreground = d1cdc2
 
 
 mouse-hide-while-typing = true
 macos-titlebar-style = hidden
 window-padding-balance = true
-window-padding-x = 10
-window-padding-y = 10
+window-padding-x = 16
+window-padding-y = 16
